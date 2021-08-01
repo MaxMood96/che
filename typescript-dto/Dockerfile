@@ -20,7 +20,7 @@
 ###
 # Publish image
 #
-FROM node:6.11.2
+FROM node:6.17.0
 
 RUN npm i -g yarn@1.9.4
 
