@@ -101,7 +101,7 @@
         <org.apache.httpcomponents.httpclient.version>4.5.13</org.apache.httpcomponents.httpclient.version>
         <org.apache.httpcomponents.httpcore.version>4.4.14</org.apache.httpcomponents.httpcore.version>
         <org.apache.maven.plugin-testing.maven-plugin-testing-harness.version>3.3.0</org.apache.maven.plugin-testing.maven-plugin-testing-harness.version>
-        <org.apache.maven.plugin-tools.plugin-annotations.version>3.2</org.apache.maven.plugin-tools.plugin-annotations.version>
+        <org.apache.maven.plugin-tools.plugin-annotations.version>3.6.2</org.apache.maven.plugin-tools.plugin-annotations.version>
         <org.apache.maven.verson>3.3.3</org.apache.maven.verson>
         <org.apache.tomcat.version>8.5.64</org.apache.tomcat.version>
         <org.codehaus.plexus.utils.version>3.0.20</org.codehaus.plexus.utils.version>
@@ -1481,7 +1481,7 @@
                                     <goal>check</goal>
                                 </goals>
                                 <configuration>
-                                    <rules />
+                                    <rules/>
                                 </configuration>
                             </execution>
                         </executions>
