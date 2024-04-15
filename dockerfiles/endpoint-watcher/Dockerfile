@@ -8,7 +8,7 @@
 # Contributors:
 #   Red Hat, Inc. - initial API and implementation
 
-FROM alpine:3.10
+FROM alpine:3.16.9
 
 RUN apk --no-cache add curl jq
 
