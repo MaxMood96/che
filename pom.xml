@@ -47,7 +47,7 @@
         <?SORTPOM RESUME?>
         <aopalliance.version>1.0</aopalliance.version>
         <ch.qos.logback.version>1.2.1</ch.qos.logback.version>
-        <com.auth0.jwks-rsa.version>0.3.0</com.auth0.jwks-rsa.version>
+        <com.auth0.jwks-rsa.version>0.13.0</com.auth0.jwks-rsa.version>
         <com.fasterxml.jackson.core.jackson-databind.version>2.10.5.1</com.fasterxml.jackson.core.jackson-databind.version>
         <com.fasterxml.jackson.core.version>2.10.3</com.fasterxml.jackson.core.version>
         <com.github.kirviq.dumbster.version>1.7.1</com.github.kirviq.dumbster.version>
@@ -1481,7 +1481,7 @@
                                     <goal>check</goal>
                                 </goals>
                                 <configuration>
-                                    <rules />
+                                    <rules/>
                                 </configuration>
                             </execution>
                         </executions>
