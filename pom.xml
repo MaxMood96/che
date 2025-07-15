@@ -48,7 +48,7 @@
         <aopalliance.version>1.0</aopalliance.version>
         <ch.qos.logback.version>1.2.1</ch.qos.logback.version>
         <com.auth0.jwks-rsa.version>0.3.0</com.auth0.jwks-rsa.version>
-        <com.fasterxml.jackson.core.jackson-databind.version>2.10.5.1</com.fasterxml.jackson.core.jackson-databind.version>
+        <com.fasterxml.jackson.core.jackson-databind.version>2.15.0</com.fasterxml.jackson.core.jackson-databind.version>
         <com.fasterxml.jackson.core.version>2.10.3</com.fasterxml.jackson.core.version>
         <com.github.kirviq.dumbster.version>1.7.1</com.github.kirviq.dumbster.version>
         <com.github.tomakehurst.wiremock-jre8-standalone.version>2.27.2</com.github.tomakehurst.wiremock-jre8-standalone.version>
@@ -97,7 +97,7 @@
         <mysql.connector.version>8.0.16</mysql.connector.version>
         <net.java.dev.jna.version>4.1.0</net.java.dev.jna.version>
         <org.antlr.st4.version>4.0.7</org.antlr.st4.version>
-        <org.apache.commons.lang3.version>3.8.1</org.apache.commons.lang3.version>
+        <org.apache.commons.lang3.version>3.18.0</org.apache.commons.lang3.version>
         <org.apache.httpcomponents.httpclient.version>4.5.13</org.apache.httpcomponents.httpclient.version>
         <org.apache.httpcomponents.httpcore.version>4.4.14</org.apache.httpcomponents.httpcore.version>
         <org.apache.maven.plugin-testing.maven-plugin-testing-harness.version>3.3.0</org.apache.maven.plugin-testing.maven-plugin-testing-harness.version>
@@ -1481,7 +1481,7 @@
                                     <goal>check</goal>
                                 </goals>
                                 <configuration>
-                                    <rules />
+                                    <rules/>
                                 </configuration>
                             </execution>
                         </executions>
